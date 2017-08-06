@@ -1,4 +1,8 @@
 # EMovies
 Mini E-Commerce Online Store
 
-www.popularmoviesonline.com
+Languages:    C#, JavaScript
+Technologies: ASP.NET MVC, Azure SQL Server, Bootstrap,
+			  JQuery, CSS
+
+# www.popularmoviesonline.com
