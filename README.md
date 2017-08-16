@@ -1,9 +1,7 @@
 # EMovies
-Mini E-Commerce Online Store
+Mini E-Commerce Online Store built with ASP.NET MVC 
 
-Languages:    C#, JavaScript
-
-Technologies: ASP.NET MVC, Azure SQL Server, Bootstrap,
-			  JQuery, CSS
+● Allows you to store the most popular movies on the website and view all the existing movies by categories. All data is stored on Azure SQL Server
+● Provides a Shopping Cart that simulates an Online Purchase Experience 
 
 # www.popularmoviesonline.com
